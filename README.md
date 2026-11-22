@@ -9,6 +9,6 @@ Its similar to Kokoro and Supertonic and all the other TTS GUIs I already made f
 
 That's it. Done! Everything will set itself up! 
 
-Enjoy the new human sounding voices at 10x the speed of Supertonic, 20x the speed of Kokoro. 
+Enjoy the new human sounding voices at faster speeds, compared to Kokoro and Supertonic. 
 
 Phonon is the beast!! 😈🚀Let's go!!!
