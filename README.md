@@ -1,5 +1,5 @@
 # PhononTTS-
-A python GUI for auto-installing and auto-configuring and generating voices with PhononTTS
+A python GUI for auto-installing and auto-configuring and generating audio from a bunch of voices, with PhononTTS.
 
 <img width="1182" height="892" alt="image" src="https://github.com/user-attachments/assets/8dd87675-691b-40b5-8e3d-f4020ad77153" />
 
